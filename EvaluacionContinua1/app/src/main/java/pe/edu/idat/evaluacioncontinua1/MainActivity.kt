@@ -19,6 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             EvaluacionContinua1Theme {
+                Pregunta4()
 
             }
         }
